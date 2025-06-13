@@ -32,7 +32,8 @@
 
 # Dirs
 build
-debug_build
+build_asan
+build_tsan
 .cache
 .DS_Store
 .vscode
